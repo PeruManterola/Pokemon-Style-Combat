@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41353a1938c0b5a46b05a6b8d065ba5e, type: 3}
+  m_Name: Ludicolo
+  m_EditorClassIdentifier: 
+  pokemonName: Ludicolo
+  pokemonSprite: {fileID: 21300000, guid: 5f9ba31afc6ee5a43b86f439ceb3a7e4, type: 3}
+  maxHp: 80
+  attack: 70
+  defense: 70
+  speed: 70
+  type1: 3
+  type2: 5
+  ability_1: {fileID: 11400000, guid: 210e2fd4dff261d42b53ba46a4cc39de, type: 2}
+  ability_2: {fileID: 11400000, guid: 0770a69efdceb334c834a64534726562, type: 2}
+  ability_3: {fileID: 0}
+  ability_4: {fileID: 0}

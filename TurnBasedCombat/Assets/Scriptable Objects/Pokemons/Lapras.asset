@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41353a1938c0b5a46b05a6b8d065ba5e, type: 3}
+  m_Name: Lapras
+  m_EditorClassIdentifier: 
+  pokemonName: Lapras
+  pokemonSprite: {fileID: 21300000, guid: 8826b1864a3f0ca4d82356c6605eeeb2, type: 3}
+  maxHp: 130
+  attack: 85
+  defense: 90
+  speed: 60
+  type1: 3
+  type2: 0
+  ability_1: {fileID: 11400000, guid: 3df3c705ab806214b9486711f303b824, type: 2}
+  ability_2: {fileID: 11400000, guid: b51e3db5f8aee4b4d8013c828152b57c, type: 2}
+  ability_3: {fileID: 11400000, guid: dd9b2ba010eb46448b4fd29c786af431, type: 2}
+  ability_4: {fileID: 0}

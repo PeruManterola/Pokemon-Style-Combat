@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41353a1938c0b5a46b05a6b8d065ba5e, type: 3}
+  m_Name: Meowth
+  m_EditorClassIdentifier: 
+  pokemonName: Meowth
+  pokemonSprite: {fileID: 21300000, guid: a4824e3fb3cb16f4daecc8e9f37fe534, type: 3}
+  maxHp: 30
+  attack: 40
+  defense: 55
+  speed: 50
+  type1: 1
+  type2: 0
+  ability_1: {fileID: 11400000, guid: a17840d3a98ffc54d82ae366d3e128be, type: 2}
+  ability_2: {fileID: 11400000, guid: f6e9aa5c9f92d364db338debb53deb99, type: 2}
+  ability_3: {fileID: 0}
+  ability_4: {fileID: 0}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41353a1938c0b5a46b05a6b8d065ba5e, type: 3}
+  m_Name: Charizard
+  m_EditorClassIdentifier: 
+  pokemonName: Charizard
+  pokemonSprite: {fileID: 21300000, guid: 229d4ba2042a1d84f90b1dc1d14cd0ce, type: 3}
+  maxHp: 78
+  attack: 84
+  defense: 78
+  speed: 100
+  type1: 2
+  type2: 1
+  ability_1: {fileID: 11400000, guid: 12df34daa01d19e45a09ace750ce416f, type: 2}
+  ability_2: {fileID: 11400000, guid: dfaf4319550cbb74a9590de6b5ffe31c, type: 2}
+  ability_3: {fileID: 11400000, guid: 1b77c18ada400a7468609124ecab5155, type: 2}
+  ability_4: {fileID: 11400000, guid: 55960ae3a46719947acc269b1bda39ec, type: 2}
